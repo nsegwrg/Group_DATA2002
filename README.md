@@ -1,5 +1,5 @@
 # Group_DATA2002
-A group project with with an Individual Exploratory Data Analysis. And a Group presentation and report.
+A group project with with an Individual Exploratory Data Analysis, Group presentation and report.
 
 The code for this project is available on: https://github.sydney.edu.au/rden7271/003E02.git 
 which might not be accessible there were 5 contibutors to the report and presentation including myself.
